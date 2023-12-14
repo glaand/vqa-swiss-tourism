@@ -162,3 +162,4 @@ cython_debug/
 responses.json
 *.zip
 artefacts/
+alternative-images/
