@@ -11,7 +11,7 @@ identifiers = []
 page_number = 0
 
 # Define the API URL
-api_url = "https://opendata.myswitzerland.io/v1/destinations?geo.bbox=47.1889,9.5341,46.3638,11.9339&page="
+api_url = "https://opendata.myswitzerland.io/v1/destinations?geo.bbox=47.0651482,8.6510632,46.1691798,10.4922941&page="
 
 headers = {
     "X-Api-Key": os.getenv("X_API_KEY")

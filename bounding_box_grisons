@@ -1,6 +1,6 @@
-Northernmost point: Approximately 47.1889° N latitude
-Southernmost point: Approximately 46.3638° N latitude
-Westernmost point: Approximately 9.5341° E longitude
-Easternmost point: Approximately 11.9339° E longitude
+Northernmost point: Approximately 47.0651482° N latitude
+Southernmost point: Approximately 46.1691798° N latitude
+Westernmost point: Approximately 8.6510632° E longitude
+Easternmost point: Approximately 10.4922941° E longitude
 
-geo.bbox=47.1889,9.5341,46.3638,11.9339
+geo.bbox=47.0651482,8.6510632,46.1691798,10.4922941
