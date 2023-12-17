@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is this famous for?,Matterhorn,mountain,0.3968,Switzerland
+What is this famous for?,Bundeshaus,church,0.2025,Switzerland
+What is this famous for?,Chateau de Chillon,castle,0.5441,Switzerland
+What is this famous for?,Creux du Van,water,0.2399,Switzerland
+What is this famous for?,Bern Old City,water,0.053,Switzerland
+What is this famous for?,Jungfraujoch,mountains,0.2483,Switzerland
+What is this famous for?,Kapellbrücke,water,0.178,Switzerland
+What is this famous for?,Ascona,water,0.1782,Switzerland
+What is this famous for?,Grindelwald,mountains,0.2492,Switzerland
+What is this famous for?,Chateau de Gruyeres,castle,0.382,Switzerland
+What is this famous for?,Aletsch Glacier,mountains,0.3048,Switzerland
+What is this famous for?,Lauterbrunnen,mountains,0.4982,Switzerland
+What is this famous for?,Rheinfall,water,0.3052,Switzerland
+What is this famous for?,Zermatt,mountains,0.2799,Switzerland
+What is this famous for?,Lion Monument,statue,0.107,Switzerland
+What is this famous for?,Schilthorn,hotel,0.1363,Switzerland
+What is this famous for?,Lenzburg Castle,house,0.7263,Switzerland
+What is this famous for?,Grossmünster,big ben,0.3656,Switzerland
+What is this famous for?,Jet d'Eau Lake Geneva,water,0.8807,Switzerland
+What is this famous for?,Zytglogge,clock tower,0.38,Switzerland
+What is this famous for?,Eiffel Tower,tower,0.2709,International
+What is this famous for?,Uluru,mountain,0.1286,International
+What is this famous for?,Louvre,hotel,0.1176,International
+What is this famous for?,Lady Liberty,statue,0.5381,International
+What is this famous for?,Colosseum,building,0.1796,International
+What is this famous for?,Niagara Falls,water,0.8759,International
+What is this famous for?,Disney World,big ben,0.2771,International
+What is this famous for?,Forbidden City,china,0.559,International
+What is this famous for?,Golden Gate Bridge,bridge,0.382,International
+What is this famous for?,Times Square,city,0.1196,International
+What is this famous for?,Notre Dame,church,0.9574,International
+What is this famous for?,Sagrada Familia,building,0.3238,International
+What is this famous for?,Neuschwanstein Castle,castle,0.823,International
+What is this famous for?,Sydney Opera House,yes,0.0718,International
+What is this famous for?,Great Wall,wall,0.0573,International
+What is this famous for?,Florence Cathedral,church,0.4065,International
+What is this famous for?,Mount Rushmore,not sure,0.0545,International
+What is this famous for?,Brooklyn Bridge,bridge,0.5494,International
+What is this famous for?,Grand Canyon,mountains,0.333,International
+What is this famous for?,Las Vegas Strip,hotel,0.0814,International
+What is this famous for?,Arosa,water,0.5272,Grisons
+What is this famous for?,Bergün,store,0.0459,Grisons
+What is this famous for?,Lai da Palpuogna,water,0.4595,Grisons
+What is this famous for?,samedan,mountains,0.2861,Grisons
+What is this famous for?,S-chanf,water,0.6309,Grisons
+What is this famous for?,Landwasser Viaduct,train,0.7851,Grisons
+What is this famous for?,Brusio Spiral Viaduct,train,0.9615,Grisons
+What is this famous for?,Chur,church,0.4633,Grisons
+What is this famous for?,Lake Silvaplana,kites,0.4757,Grisons
+What is this famous for?,St. Moritz,church,0.1141,Grisons
+What is this famous for?,Lake Cauma,water,0.1072,Grisons
+What is this famous for?,White Turf,horses,0.3708,Grisons
+What is this famous for?,Guarda,kites,0.125,Grisons
+What is this famous for?,Davos Schatzalp,train,0.7996,Grisons
+What is this famous for?,Ruinaulta,mountains,0.5665,Grisons
+What is this famous for?,Maienfeld,mountains,0.2708,Grisons
+What is this famous for?,Muottas Muragl,train,0.4975,Grisons
+What is this famous for?,Oberengadin,mountains,0.2441,Grisons
+What is this famous for?,San Gian,clock,0.3451,Grisons
+What is this famous for?,Corviglia Piz Nair,skiing,0.2222,Grisons

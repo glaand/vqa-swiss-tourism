@@ -1,0 +1,61 @@
+Question;Location;Answer;Confidence;Region;Y_TRUE
+What is this?;Matterhorn;mountain;0.9562;Switzerland;mountain
+What is this?;Bundeshaus;building;0.6159;Switzerland;building
+What is this?;Chateau de Chillon;castle;0.9067;Switzerland;castle
+What is this?;Creux du Van;bridge;0.9412;Switzerland;cirque
+What is this?;Bern Old City;bridge;0.147;Switzerland;city
+What is this?;Jungfraujoch;mountain;0.8022;Switzerland;mountain
+What is this?;Kapellbrücke;bridge;0.6213;Switzerland;bridge
+What is this?;Ascona;beach;0.5799;Switzerland;dock
+What is this?;Grindelwald;ski resort;0.5198;Switzerland;ski resort
+What is this?;Chateau de Gruyeres;castle;0.8702;Switzerland;castle
+What is this?;Aletsch Glacier;mountains;0.2721;Switzerland;glacier
+What is this?;Lauterbrunnen;mountains;0.4308;Switzerland;mountains
+What is this?;Rheinfall;bridge;0.5571;Switzerland;waterfall
+What is this?;Zermatt;ski resort;0.2888;Switzerland;ski resort
+What is this?;Lion Monument;oven;0.316;Switzerland;monument
+What is this?;Schilthorn;mountain;0.2442;Switzerland;mountain
+What is this?;Lenzburg Castle;house;0.9016;Switzerland;house
+What is this?;Grossmünster;clock tower;0.526;Switzerland;church
+What is this?;Jet d'Eau Lake Geneva;water;0.7396;Switzerland;fountain
+What is this?;Zytglogge;clock tower;0.8153;Switzerland;clock tower
+What is this?;Eiffel Tower;tower;0.79;International;tower
+What is this?;Uluru;mountain;0.4295;International;mountain
+What is this?;Louvre;building;0.2244;International;building
+What is this?;Lady Liberty;statue;0.9446;International;statue
+What is this?;Colosseum;building;0.5986;International;building
+What is this?;Niagara Falls;water;0.4826;International;waterfall
+What is this?;Disney World;clock tower;0.5359;International;castle
+What is this?;Forbidden City;china;0.4954;International;palace
+What is this?;Golden Gate Bridge;bridge;0.8394;International;bridge
+What is this?;Times Square;city;0.2865;International;city
+What is this?;Notre Dame;church;0.7957;International;church
+What is this?;Sagrada Familia;building;0.6852;International;building
+What is this?;Neuschwanstein Castle;castle;0.983;International;castle
+What is this?;Sydney Opera House;boat;0.4596;International;building
+What is this?;Great Wall;mountain;0.4346;International;wall
+What is this?;Florence Cathedral;church;0.4278;International;church
+What is this?;Mount Rushmore;statue;0.4149;International;statue
+What is this?;Brooklyn Bridge;bridge;0.9262;International;bridge
+What is this?;Grand Canyon;mountains;0.7909;International;mountains
+What is this?;Las Vegas Strip;city;0.5982;International;city
+What is this?;Arosa;lake;0.8775;Grisons;city
+What is this?;Bergün;street;0.3828;Grisons;village
+What is this?;Lai da Palpuogna;lake;0.5751;Grisons;lake
+What is this?;samedan;mountain;0.3826;Grisons;village
+What is this?;S-chanf;bridge;0.9142;Grisons;village
+What is this?;Landwasser Viaduct;bridge;0.5195;Grisons;bridge
+What is this?;Brusio Spiral Viaduct;train;0.9793;Grisons;bridge
+What is this?;Chur;city;0.2884;Grisons;city
+What is this?;Lake Silvaplana;kites;0.4249;Grisons;lake
+What is this?;St. Moritz;city;0.7392;Grisons;city
+What is this?;Lake Cauma;snow;0.1988;Grisons;lake
+What is this?;White Turf;horses;0.6838;Grisons;horses
+What is this?;Guarda;kite;0.2212;Grisons;village
+What is this?;Davos Schatzalp;train;0.9937;Grisons;city
+What is this?;Ruinaulta;mountains;0.698;Grisons;mountains
+What is this?;Maienfeld;trees;0.096;Grisons;village
+What is this?;Muottas Muragl;train;0.9513;Grisons;village
+What is this?;Oberengadin;mountains;0.4278;Grisons;village
+What is this?;San Gian;clock tower;0.6281;Grisons;tower
+What is this?;Corviglia Piz Nair;ski lift;0.6674;Grisons;ski lift

@@ -1,0 +1,61 @@
+Question;Location;Answer;Confidence;Region;Y_TRUE
+What is the name of this;Matterhorn;mountain;0.8686;Switzerland;Matterhorn
+What is the name of this;Bundeshaus;white house;0.2747;Switzerland;Bundeshaus
+What is the name of this;Chateau de Chillon;castle;0.807;Switzerland;Chateau de Chillon
+What is the name of this;Creux du Van;bridge;0.4037;Switzerland;Creux du Van
+What is the name of this;Bern Old City;don't know;0.0734;Switzerland;Bern Old City
+What is the name of this;Jungfraujoch;mountain;0.6224;Switzerland;Jungfraujoch
+What is the name of this;Kapellbrücke;big ben;0.1314;Switzerland;Kapellbrücke
+What is the name of this;Ascona;beach;0.1231;Switzerland;Ascona
+What is the name of this;Grindelwald;ski resort;0.1982;Switzerland;Grindelwald
+What is the name of this;Chateau de Gruyeres;castle;0.7565;Switzerland;Chateau de Gruyeres
+What is the name of this;Aletsch Glacier;mountains;0.417;Switzerland;Aletsch Glacier
+What is the name of this;Lauterbrunnen;mountains;0.4188;Switzerland;Lauterbrunnen
+What is the name of this;Rheinfall;river;0.2398;Switzerland;Rheinfall
+What is the name of this;Zermatt;mountain;0.3281;Switzerland;Zermatt
+What is the name of this;Lion Monument;stone;0.1578;Switzerland;Lion Monument
+What is the name of this;Schilthorn;mountain;0.225;Switzerland;Schilthorn
+What is the name of this;Lenzburg Castle;house;0.6433;Switzerland;Lenzburg Castle
+What is the name of this;Grossmünster;big ben;0.873;Switzerland;Grossmünster
+What is the name of this;Jet d'Eau Lake Geneva;water;0.4939;Switzerland;Jet d'Eau Lake Geneva
+What is the name of this;Zytglogge;clock tower;0.7757;Switzerland;Zytglogge
+What is the name of this;Eiffel Tower;tower;0.4578;International;Eiffel Tower
+What is the name of this;Uluru;mountain;0.1915;International;Uluru
+What is the name of this;Louvre;not sure;0.0864;International;Louvre
+What is the name of this;Lady Liberty;statue;0.5848;International;Lady Liberty
+What is the name of this;Colosseum;not sure;0.0865;International;Colosseum
+What is the name of this;Niagara Falls;water;0.1749;International;Niagara Falls
+What is the name of this;Disney World;big ben;0.597;International;Disney World
+What is the name of this;Forbidden City;china;0.5672;International;Forbidden City
+What is the name of this;Golden Gate Bridge;bridge;0.3469;International;Golden Gate Bridge
+What is the name of this;Times Square;city;0.2383;International;Times Square
+What is the name of this;Notre Dame;church;0.7556;International;Notre Dame
+What is the name of this;Sagrada Familia;church;0.3072;International;Sagrada Familia
+What is the name of this;Neuschwanstein Castle;castle;0.9687;International;Neuschwanstein Castle
+What is the name of this;Sydney Opera House;boat;0.1192;International;Sydney Opera House
+What is the name of this;Great Wall;mountain;0.2606;International;Great Wall
+What is the name of this;Florence Cathedral;church;0.4555;International;Florence Cathedral
+What is the name of this;Mount Rushmore;mountain;0.0903;International;Mount Rushmore
+What is the name of this;Brooklyn Bridge;bridge;0.4475;International;Brooklyn Bridge
+What is the name of this;Grand Canyon;mountains;0.1799;International;Grand Canyon
+What is the name of this;Las Vegas Strip;city;0.1195;International;Las Vegas Strip
+What is the name of this;Arosa;lake;0.7182;Grisons;Arosa
+What is the name of this;Bergün;italy;0.0786;Grisons;Bergün
+What is the name of this;Lai da Palpuogna;lake;0.1564;Grisons;Lai da Palpuogna
+What is the name of this;samedan;mountain;0.3052;Grisons;samedan
+What is the name of this;S-chanf;bridge;0.2567;Grisons;S-chanf
+What is the name of this;Landwasser Viaduct;train;0.7113;Grisons;Landwasser Viaduct
+What is the name of this;Brusio Spiral Viaduct;train;0.975;Grisons;Brusio Spiral Viaduct
+What is the name of this;Chur;castle;0.0857;Grisons;Chur
+What is the name of this;Lake Silvaplana;lake;0.1624;Grisons;Lake Silvaplana
+What is the name of this;St. Moritz;big ben;0.159;Grisons;St. Moritz
+What is the name of this;Lake Cauma;unknown;0.0881;Grisons;Lake Cauma
+What is the name of this;White Turf;horse;0.362;Grisons;White Turf
+What is the name of this;Guarda;don't know;0.0686;Grisons;Guarda
+What is the name of this;Davos Schatzalp;train;0.6335;Grisons;Davos Schatzalp
+What is the name of this;Ruinaulta;mountains;0.7506;Grisons;Ruinaulta
+What is the name of this;Maienfeld;fall;0.0788;Grisons;Maienfeld
+What is the name of this;Muottas Muragl;train;0.575;Grisons;Muottas Muragl
+What is the name of this;Oberengadin;mountains;0.227;Grisons;Oberengadin
+What is the name of this;San Gian;clock tower;0.4799;Grisons;San Gian
+What is the name of this;Corviglia Piz Nair;ski resort;0.0616;Grisons;Corviglia Piz Nair
