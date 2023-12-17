@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Is this expensive?,Matterhorn,yes,0.9994,Switzerland
+Is this expensive?,Bundeshaus,yes,0.9999,Switzerland
+Is this expensive?,Chateau de Chillon,yes,0.9564,Switzerland
+Is this expensive?,Creux du Van,yes,0.9398,Switzerland
+Is this expensive?,Bern Old City,yes,0.9998,Switzerland
+Is this expensive?,Jungfraujoch,yes,0.515,Switzerland
+Is this expensive?,Kapellbrücke,yes,0.9987,Switzerland
+Is this expensive?,Ascona,yes,0.8415,Switzerland
+Is this expensive?,Grindelwald,yes,0.9982,Switzerland
+Is this expensive?,Chateau de Gruyeres,yes,0.9998,Switzerland
+Is this expensive?,Aletsch Glacier,yes,0.784,Switzerland
+Is this expensive?,Lauterbrunnen,yes,0.9937,Switzerland
+Is this expensive?,Rheinfall,no,0.5699,Switzerland
+Is this expensive?,Zermatt,yes,0.9989,Switzerland
+Is this expensive?,Lion Monument,no,0.9002,Switzerland
+Is this expensive?,Schilthorn,yes,0.9993,Switzerland
+Is this expensive?,Lenzburg Castle,yes,0.9911,Switzerland
+Is this expensive?,Grossmünster,no,0.6587,Switzerland
+Is this expensive?,Jet d'Eau Lake Geneva,yes,0.8962,Switzerland
+Is this expensive?,Zytglogge,no,0.573,Switzerland
+Is this expensive?,Eiffel Tower,yes,0.9632,International
+Is this expensive?,Uluru,yes,0.9989,International
+Is this expensive?,Louvre,yes,1.0,International
+Is this expensive?,Lady Liberty,no,0.821,International
+Is this expensive?,Colosseum,yes,0.9999,International
+Is this expensive?,Niagara Falls,no,0.6186,International
+Is this expensive?,Disney World,yes,0.9983,International
+Is this expensive?,Forbidden City,yes,0.9886,International
+Is this expensive?,Golden Gate Bridge,yes,0.9919,International
+Is this expensive?,Times Square,yes,0.5378,International
+Is this expensive?,Notre Dame,yes,0.9997,International
+Is this expensive?,Sagrada Familia,yes,0.9982,International
+Is this expensive?,Neuschwanstein Castle,yes,0.9999,International
+Is this expensive?,Sydney Opera House,yes,1.0,International
+Is this expensive?,Great Wall,no,0.8732,International
+Is this expensive?,Florence Cathedral,yes,0.9784,International
+Is this expensive?,Mount Rushmore,yes,0.95,International
+Is this expensive?,Brooklyn Bridge,no,0.8384,International
+Is this expensive?,Grand Canyon,no,0.808,International
+Is this expensive?,Las Vegas Strip,yes,0.985,International
+Is this expensive?,Arosa,yes,0.9776,Grisons
+Is this expensive?,Bergün,no,0.8157,Grisons
+Is this expensive?,Lai da Palpuogna,yes,0.8056,Grisons
+Is this expensive?,samedan,yes,0.9996,Grisons
+Is this expensive?,S-chanf,yes,0.991,Grisons
+Is this expensive?,Landwasser Viaduct,yes,0.9651,Grisons
+Is this expensive?,Brusio Spiral Viaduct,yes,0.9997,Grisons
+Is this expensive?,Chur,yes,0.7918,Grisons
+Is this expensive?,Lake Silvaplana,no,0.5844,Grisons
+Is this expensive?,St. Moritz,yes,0.9999,Grisons
+Is this expensive?,Lake Cauma,no,0.9999,Grisons
+Is this expensive?,White Turf,yes,0.5549,Grisons
+Is this expensive?,Guarda,no,0.9816,Grisons
+Is this expensive?,Davos Schatzalp,no,0.6972,Grisons
+Is this expensive?,Ruinaulta,yes,0.9996,Grisons
+Is this expensive?,Maienfeld,yes,0.9979,Grisons
+Is this expensive?,Muottas Muragl,no,0.8202,Grisons
+Is this expensive?,Oberengadin,yes,0.9992,Grisons
+Is this expensive?,San Gian,no,0.8921,Grisons
+Is this expensive?,Corviglia Piz Nair,yes,0.9986,Grisons

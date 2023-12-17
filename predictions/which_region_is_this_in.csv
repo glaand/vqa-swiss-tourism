@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Which region is this in?,Matterhorn,mountains,0.7844,Switzerland
+Which region is this in?,Bundeshaus,europe,0.1615,Switzerland
+Which region is this in?,Chateau de Chillon,europe,0.1967,Switzerland
+Which region is this in?,Creux du Van,mountains,0.4716,Switzerland
+Which region is this in?,Bern Old City,asia,0.121,Switzerland
+Which region is this in?,Jungfraujoch,mountains,0.7303,Switzerland
+Which region is this in?,Kapellbrücke,europe,0.1988,Switzerland
+Which region is this in?,Ascona,italy,0.1413,Switzerland
+Which region is this in?,Grindelwald,mountains,0.7484,Switzerland
+Which region is this in?,Chateau de Gruyeres,mountains,0.4686,Switzerland
+Which region is this in?,Aletsch Glacier,mountains,0.8262,Switzerland
+Which region is this in?,Lauterbrunnen,mountains,0.8002,Switzerland
+Which region is this in?,Rheinfall,europe,0.1502,Switzerland
+Which region is this in?,Zermatt,mountains,0.6634,Switzerland
+Which region is this in?,Lion Monument,asia,0.1538,Switzerland
+Which region is this in?,Schilthorn,mountains,0.6645,Switzerland
+Which region is this in?,Lenzburg Castle,europe,0.21,Switzerland
+Which region is this in?,Grossmünster,london,0.5101,Switzerland
+Which region is this in?,Jet d'Eau Lake Geneva,ocean,0.1857,Switzerland
+Which region is this in?,Zytglogge,europe,0.204,Switzerland
+Which region is this in?,Eiffel Tower,paris,0.1962,International
+Which region is this in?,Uluru,west,0.2095,International
+Which region is this in?,Louvre,france,0.1467,International
+Which region is this in?,Lady Liberty,france,0.0896,International
+Which region is this in?,Colosseum,europe,0.1651,International
+Which region is this in?,Niagara Falls,california,0.1998,International
+Which region is this in?,Disney World,london,0.5676,International
+Which region is this in?,Forbidden City,china,0.8611,International
+Which region is this in?,Golden Gate Bridge,san francisco,0.5324,International
+Which region is this in?,Times Square,new york,0.5546,International
+Which region is this in?,Notre Dame,london,0.4248,International
+Which region is this in?,Sagrada Familia,london,0.1577,International
+Which region is this in?,Neuschwanstein Castle,europe,0.2419,International
+Which region is this in?,Sydney Opera House,california,0.0956,International
+Which region is this in?,Great Wall,mountains,0.5592,International
+Which region is this in?,Florence Cathedral,europe,0.1376,International
+Which region is this in?,Mount Rushmore,mountains,0.4616,International
+Which region is this in?,Brooklyn Bridge,san francisco,0.3122,International
+Which region is this in?,Grand Canyon,mountains,0.4521,International
+Which region is this in?,Las Vegas Strip,new york,0.2857,International
+Which region is this in?,Arosa,mountains,0.1858,Grisons
+Which region is this in?,Bergün,italy,0.2637,Grisons
+Which region is this in?,Lai da Palpuogna,mountains,0.6476,Grisons
+Which region is this in?,samedan,mountains,0.8295,Grisons
+Which region is this in?,S-chanf,mountains,0.2889,Grisons
+Which region is this in?,Landwasser Viaduct,mountains,0.5481,Grisons
+Which region is this in?,Brusio Spiral Viaduct,europe,0.1184,Grisons
+Which region is this in?,Chur,europe,0.2254,Grisons
+Which region is this in?,Lake Silvaplana,mountains,0.4006,Grisons
+Which region is this in?,St. Moritz,mountains,0.2079,Grisons
+Which region is this in?,Lake Cauma,mountains,0.2354,Grisons
+Which region is this in?,White Turf,mountains,0.5451,Grisons
+Which region is this in?,Guarda,south,0.1055,Grisons
+Which region is this in?,Davos Schatzalp,mountains,0.5553,Grisons
+Which region is this in?,Ruinaulta,mountains,0.8123,Grisons
+Which region is this in?,Maienfeld,mountains,0.5792,Grisons
+Which region is this in?,Muottas Muragl,mountains,0.7891,Grisons
+Which region is this in?,Oberengadin,mountains,0.7319,Grisons
+Which region is this in?,San Gian,mountains,0.3334,Grisons
+Which region is this in?,Corviglia Piz Nair,colorado,0.2748,Grisons

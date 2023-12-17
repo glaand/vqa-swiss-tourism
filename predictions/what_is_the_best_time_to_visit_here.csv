@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is the best time to visit here?,Matterhorn,noon,0.1564,Switzerland
+What is the best time to visit here?,Bundeshaus,noon,0.12,Switzerland
+What is the best time to visit here?,Chateau de Chillon,noon,0.4787,Switzerland
+What is the best time to visit here?,Creux du Van,noon,0.4509,Switzerland
+What is the best time to visit here?,Bern Old City,noon,0.2044,Switzerland
+What is the best time to visit here?,Jungfraujoch,winter,0.1675,Switzerland
+What is the best time to visit here?,Kapellbrücke,noon,0.1405,Switzerland
+What is the best time to visit here?,Ascona,noon,0.1172,Switzerland
+What is the best time to visit here?,Grindelwald,winter,0.2189,Switzerland
+What is the best time to visit here?,Chateau de Gruyeres,noon,0.4445,Switzerland
+What is the best time to visit here?,Aletsch Glacier,noon,0.1665,Switzerland
+What is the best time to visit here?,Lauterbrunnen,noon,0.2666,Switzerland
+What is the best time to visit here?,Rheinfall,noon,0.293,Switzerland
+What is the best time to visit here?,Zermatt,winter,0.1536,Switzerland
+What is the best time to visit here?,Lion Monument,noon,0.0871,Switzerland
+What is the best time to visit here?,Schilthorn,noon,0.201,Switzerland
+What is the best time to visit here?,Lenzburg Castle,noon,0.29,Switzerland
+What is the best time to visit here?,Grossmünster,noon,0.1084,Switzerland
+What is the best time to visit here?,Jet d'Eau Lake Geneva,noon,0.1255,Switzerland
+What is the best time to visit here?,Zytglogge,noon,0.0474,Switzerland
+What is the best time to visit here?,Eiffel Tower,noon,0.1192,International
+What is the best time to visit here?,Uluru,noon,0.3014,International
+What is the best time to visit here?,Louvre,morning,0.1266,International
+What is the best time to visit here?,Lady Liberty,noon,0.1666,International
+What is the best time to visit here?,Colosseum,noon,0.177,International
+What is the best time to visit here?,Niagara Falls,noon,0.2744,International
+What is the best time to visit here?,Disney World,noon,0.0909,International
+What is the best time to visit here?,Forbidden City,noon,0.1932,International
+What is the best time to visit here?,Golden Gate Bridge,noon,0.2284,International
+What is the best time to visit here?,Times Square,night,0.2254,International
+What is the best time to visit here?,Notre Dame,noon,0.1332,International
+What is the best time to visit here?,Sagrada Familia,noon,0.2653,International
+What is the best time to visit here?,Neuschwanstein Castle,noon,0.2945,International
+What is the best time to visit here?,Sydney Opera House,noon,0.1488,International
+What is the best time to visit here?,Great Wall,noon,0.5097,International
+What is the best time to visit here?,Florence Cathedral,noon,0.1577,International
+What is the best time to visit here?,Mount Rushmore,noon,0.2434,International
+What is the best time to visit here?,Brooklyn Bridge,noon,0.165,International
+What is the best time to visit here?,Grand Canyon,noon,0.4557,International
+What is the best time to visit here?,Las Vegas Strip,night,0.5352,International
+What is the best time to visit here?,Arosa,noon,0.1534,Grisons
+What is the best time to visit here?,Bergün,noon,0.3068,Grisons
+What is the best time to visit here?,Lai da Palpuogna,noon,0.2523,Grisons
+What is the best time to visit here?,samedan,noon,0.3115,Grisons
+What is the best time to visit here?,S-chanf,noon,0.4657,Grisons
+What is the best time to visit here?,Landwasser Viaduct,noon,0.2083,Grisons
+What is the best time to visit here?,Brusio Spiral Viaduct,noon,0.2302,Grisons
+What is the best time to visit here?,Chur,noon,0.3676,Grisons
+What is the best time to visit here?,Lake Silvaplana,noon,0.3445,Grisons
+What is the best time to visit here?,St. Moritz,noon,0.2136,Grisons
+What is the best time to visit here?,Lake Cauma,noon,0.1667,Grisons
+What is the best time to visit here?,White Turf,winter,0.4583,Grisons
+What is the best time to visit here?,Guarda,noon,0.2287,Grisons
+What is the best time to visit here?,Davos Schatzalp,noon,0.3861,Grisons
+What is the best time to visit here?,Ruinaulta,noon,0.2119,Grisons
+What is the best time to visit here?,Maienfeld,noon,0.2801,Grisons
+What is the best time to visit here?,Muottas Muragl,noon,0.3171,Grisons
+What is the best time to visit here?,Oberengadin,noon,0.3216,Grisons
+What is the best time to visit here?,San Gian,noon,0.0565,Grisons
+What is the best time to visit here?,Corviglia Piz Nair,winter,0.3117,Grisons

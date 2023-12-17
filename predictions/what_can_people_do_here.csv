@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What can people do here?,Matterhorn,ski,0.6783,Switzerland
+What can people do here?,Bundeshaus,stand,0.1319,Switzerland
+What can people do here?,Chateau de Chillon,swim,0.1386,Switzerland
+What can people do here?,Creux du Van,sleep,0.1461,Switzerland
+What can people do here?,Bern Old City,land,0.0602,Switzerland
+What can people do here?,Jungfraujoch,ski,0.9139,Switzerland
+What can people do here?,Kapellbrücke,swim,0.4789,Switzerland
+What can people do here?,Ascona,swim,0.7452,Switzerland
+What can people do here?,Grindelwald,ski,0.9523,Switzerland
+What can people do here?,Chateau de Gruyeres,sleep,0.2174,Switzerland
+What can people do here?,Aletsch Glacier,ski,0.3225,Switzerland
+What can people do here?,Lauterbrunnen,sleep,0.2271,Switzerland
+What can people do here?,Rheinfall,swim,0.3584,Switzerland
+What can people do here?,Zermatt,ski,0.9025,Switzerland
+What can people do here?,Lion Monument,swim,0.1579,Switzerland
+What can people do here?,Schilthorn,ski,0.8009,Switzerland
+What can people do here?,Lenzburg Castle,sleep,0.2197,Switzerland
+What can people do here?,Grossmünster,sleep,0.1336,Switzerland
+What can people do here?,Jet d'Eau Lake Geneva,swim,0.362,Switzerland
+What can people do here?,Zytglogge,shop,0.2063,Switzerland
+What can people do here?,Eiffel Tower,park,0.1689,International
+What can people do here?,Uluru,sleep,0.1808,International
+What can people do here?,Louvre,sleep,0.3053,International
+What can people do here?,Lady Liberty,sleep,0.0918,International
+What can people do here?,Colosseum,stand,0.1497,International
+What can people do here?,Niagara Falls,swim,0.5481,International
+What can people do here?,Disney World,sleep,0.1367,International
+What can people do here?,Forbidden City,eat,0.1415,International
+What can people do here?,Golden Gate Bridge,swim,0.0702,International
+What can people do here?,Times Square,stop,0.2167,International
+What can people do here?,Notre Dame,park,0.1153,International
+What can people do here?,Sagrada Familia,work,0.2163,International
+What can people do here?,Neuschwanstein Castle,sleep,0.2121,International
+What can people do here?,Sydney Opera House,swim,0.1813,International
+What can people do here?,Great Wall,walk,0.1702,International
+What can people do here?,Florence Cathedral,sleep,0.1442,International
+What can people do here?,Mount Rushmore,sleep,0.2539,International
+What can people do here?,Brooklyn Bridge,swim,0.1069,International
+What can people do here?,Grand Canyon,sleep,0.1671,International
+What can people do here?,Las Vegas Strip,eat,0.1743,International
+What can people do here?,Arosa,swim,0.8464,Grisons
+What can people do here?,Bergün,eat,0.2784,Grisons
+What can people do here?,Lai da Palpuogna,swim,0.5509,Grisons
+What can people do here?,samedan,swim,0.1099,Grisons
+What can people do here?,S-chanf,swim,0.5626,Grisons
+What can people do here?,Landwasser Viaduct,ski,0.1319,Grisons
+What can people do here?,Brusio Spiral Viaduct,transport,0.1754,Grisons
+What can people do here?,Chur,sleep,0.1404,Grisons
+What can people do here?,Lake Silvaplana,swim,0.6417,Grisons
+What can people do here?,St. Moritz,sleep,0.1395,Grisons
+What can people do here?,Lake Cauma,sleep,0.7195,Grisons
+What can people do here?,White Turf,ski,0.1978,Grisons
+What can people do here?,Guarda,snowboard,0.0599,Grisons
+What can people do here?,Davos Schatzalp,travel,0.1056,Grisons
+What can people do here?,Ruinaulta,ski,0.4616,Grisons
+What can people do here?,Maienfeld,sleep,0.3093,Grisons
+What can people do here?,Muottas Muragl,transport,0.2588,Grisons
+What can people do here?,Oberengadin,swim,0.4926,Grisons
+What can people do here?,San Gian,ski,0.9124,Grisons
+What can people do here?,Corviglia Piz Nair,ski,0.9565,Grisons

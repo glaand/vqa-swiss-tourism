@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What are activities here?,Matterhorn,hiking,0.4065,Switzerland
+What are activities here?,Bundeshaus,art,0.0726,Switzerland
+What are activities here?,Chateau de Chillon,water,0.1588,Switzerland
+What are activities here?,Creux du Van,bridge,0.1827,Switzerland
+What are activities here?,Bern Old City,transportation,0.0734,Switzerland
+What are activities here?,Jungfraujoch,skiing,0.7358,Switzerland
+What are activities here?,Kapellbrücke,water,0.4913,Switzerland
+What are activities here?,Ascona,boats,0.6109,Switzerland
+What are activities here?,Grindelwald,skiing,0.8212,Switzerland
+What are activities here?,Chateau de Gruyeres,castle,0.1098,Switzerland
+What are activities here?,Aletsch Glacier,mountains,0.2843,Switzerland
+What are activities here?,Lauterbrunnen,flowers,0.377,Switzerland
+What are activities here?,Rheinfall,surfing,0.1709,Switzerland
+What are activities here?,Zermatt,skiing,0.6119,Switzerland
+What are activities here?,Lion Monument,swimming,0.07,Switzerland
+What are activities here?,Schilthorn,skiing,0.5871,Switzerland
+What are activities here?,Lenzburg Castle,house,0.0804,Switzerland
+What are activities here?,Grossmünster,shopping,0.0951,Switzerland
+What are activities here?,Jet d'Eau Lake Geneva,water,0.5028,Switzerland
+What are activities here?,Zytglogge,building,0.1236,Switzerland
+What are activities here?,Eiffel Tower,park,0.3592,International
+What are activities here?,Uluru,dessert,0.0792,International
+What are activities here?,Louvre,park,0.0796,International
+What are activities here?,Lady Liberty,water,0.0457,International
+What are activities here?,Colosseum,building,0.1143,International
+What are activities here?,Niagara Falls,surfing,0.4716,International
+What are activities here?,Disney World,church,0.1111,International
+What are activities here?,Forbidden City,people,0.2121,International
+What are activities here?,Golden Gate Bridge,bridge,0.3733,International
+What are activities here?,Times Square,parade,0.1408,International
+What are activities here?,Notre Dame,church,0.3596,International
+What are activities here?,Sagrada Familia,construction,0.1668,International
+What are activities here?,Neuschwanstein Castle,castle,0.592,International
+What are activities here?,Sydney Opera House,boating,0.3895,International
+What are activities here?,Great Wall,mountains,0.1333,International
+What are activities here?,Florence Cathedral,church,0.1164,International
+What are activities here?,Mount Rushmore,mountains,0.2038,International
+What are activities here?,Brooklyn Bridge,bridge,0.1273,International
+What are activities here?,Grand Canyon,mountains,0.426,International
+What are activities here?,Las Vegas Strip,city,0.1785,International
+What are activities here?,Arosa,swimming,0.2458,Grisons
+What are activities here?,Bergün,walking,0.1438,Grisons
+What are activities here?,Lai da Palpuogna,water,0.2471,Grisons
+What are activities here?,samedan,golf,0.1411,Grisons
+What are activities here?,S-chanf,bridge,0.2087,Grisons
+What are activities here?,Landwasser Viaduct,train,0.3981,Grisons
+What are activities here?,Brusio Spiral Viaduct,train,0.7682,Grisons
+What are activities here?,Chur,driving,0.053,Grisons
+What are activities here?,Lake Silvaplana,flying kites,0.6018,Grisons
+What are activities here?,St. Moritz,city,0.168,Grisons
+What are activities here?,Lake Cauma,swimming,0.0783,Grisons
+What are activities here?,White Turf,horse racing,0.3534,Grisons
+What are activities here?,Guarda,flying kites,0.1303,Grisons
+What are activities here?,Davos Schatzalp,train,0.5909,Grisons
+What are activities here?,Ruinaulta,mountains,0.5476,Grisons
+What are activities here?,Maienfeld,grazing,0.1021,Grisons
+What are activities here?,Muottas Muragl,train,0.5598,Grisons
+What are activities here?,Oberengadin,mountains,0.334,Grisons
+What are activities here?,San Gian,skiing,0.7168,Grisons
+What are activities here?,Corviglia Piz Nair,skiing,0.8454,Grisons

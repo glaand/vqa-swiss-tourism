@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Is this a tourist attraction?,Matterhorn,yes,1.0,Switzerland
+Is this a tourist attraction?,Bundeshaus,yes,0.9904,Switzerland
+Is this a tourist attraction?,Chateau de Chillon,yes,1.0,Switzerland
+Is this a tourist attraction?,Creux du Van,yes,1.0,Switzerland
+Is this a tourist attraction?,Bern Old City,yes,1.0,Switzerland
+Is this a tourist attraction?,Jungfraujoch,yes,0.9985,Switzerland
+Is this a tourist attraction?,Kapellbrücke,yes,1.0,Switzerland
+Is this a tourist attraction?,Ascona,yes,0.9999,Switzerland
+Is this a tourist attraction?,Grindelwald,yes,0.9998,Switzerland
+Is this a tourist attraction?,Chateau de Gruyeres,yes,1.0,Switzerland
+Is this a tourist attraction?,Aletsch Glacier,yes,0.9977,Switzerland
+Is this a tourist attraction?,Lauterbrunnen,yes,1.0,Switzerland
+Is this a tourist attraction?,Rheinfall,yes,1.0,Switzerland
+Is this a tourist attraction?,Zermatt,yes,1.0,Switzerland
+Is this a tourist attraction?,Lion Monument,yes,1.0,Switzerland
+Is this a tourist attraction?,Schilthorn,yes,1.0,Switzerland
+Is this a tourist attraction?,Lenzburg Castle,yes,0.9859,Switzerland
+Is this a tourist attraction?,Grossmünster,yes,0.9999,Switzerland
+Is this a tourist attraction?,Jet d'Eau Lake Geneva,yes,0.9995,Switzerland
+Is this a tourist attraction?,Zytglogge,yes,0.9997,Switzerland
+Is this a tourist attraction?,Eiffel Tower,yes,0.9999,International
+Is this a tourist attraction?,Uluru,yes,0.9881,International
+Is this a tourist attraction?,Louvre,yes,1.0,International
+Is this a tourist attraction?,Lady Liberty,yes,0.9999,International
+Is this a tourist attraction?,Colosseum,yes,0.9998,International
+Is this a tourist attraction?,Niagara Falls,yes,1.0,International
+Is this a tourist attraction?,Disney World,yes,1.0,International
+Is this a tourist attraction?,Forbidden City,yes,0.9999,International
+Is this a tourist attraction?,Golden Gate Bridge,yes,1.0,International
+Is this a tourist attraction?,Times Square,yes,1.0,International
+Is this a tourist attraction?,Notre Dame,yes,0.9985,International
+Is this a tourist attraction?,Sagrada Familia,yes,0.5676,International
+Is this a tourist attraction?,Neuschwanstein Castle,yes,1.0,International
+Is this a tourist attraction?,Sydney Opera House,yes,1.0,International
+Is this a tourist attraction?,Great Wall,yes,1.0,International
+Is this a tourist attraction?,Florence Cathedral,yes,0.991,International
+Is this a tourist attraction?,Mount Rushmore,yes,1.0,International
+Is this a tourist attraction?,Brooklyn Bridge,yes,0.9999,International
+Is this a tourist attraction?,Grand Canyon,yes,0.9995,International
+Is this a tourist attraction?,Las Vegas Strip,yes,0.9946,International
+Is this a tourist attraction?,Arosa,yes,1.0,Grisons
+Is this a tourist attraction?,Bergün,yes,0.9996,Grisons
+Is this a tourist attraction?,Lai da Palpuogna,yes,0.9369,Grisons
+Is this a tourist attraction?,samedan,yes,0.9729,Grisons
+Is this a tourist attraction?,S-chanf,yes,1.0,Grisons
+Is this a tourist attraction?,Landwasser Viaduct,yes,1.0,Grisons
+Is this a tourist attraction?,Brusio Spiral Viaduct,yes,1.0,Grisons
+Is this a tourist attraction?,Chur,yes,1.0,Grisons
+Is this a tourist attraction?,Lake Silvaplana,yes,1.0,Grisons
+Is this a tourist attraction?,St. Moritz,yes,1.0,Grisons
+Is this a tourist attraction?,Lake Cauma,no,0.8588,Grisons
+Is this a tourist attraction?,White Turf,yes,0.9978,Grisons
+Is this a tourist attraction?,Guarda,yes,0.9985,Grisons
+Is this a tourist attraction?,Davos Schatzalp,yes,1.0,Grisons
+Is this a tourist attraction?,Ruinaulta,yes,1.0,Grisons
+Is this a tourist attraction?,Maienfeld,yes,0.726,Grisons
+Is this a tourist attraction?,Muottas Muragl,yes,1.0,Grisons
+Is this a tourist attraction?,Oberengadin,yes,1.0,Grisons
+Is this a tourist attraction?,San Gian,yes,0.9881,Grisons
+Is this a tourist attraction?,Corviglia Piz Nair,yes,1.0,Grisons

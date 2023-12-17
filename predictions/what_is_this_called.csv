@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is this called?,Matterhorn,mountain,0.973,Switzerland
+What is this called?,Bundeshaus,building,0.5963,Switzerland
+What is this called?,Chateau de Chillon,castle,0.9044,Switzerland
+What is this called?,Creux du Van,bridge,0.9594,Switzerland
+What is this called?,Bern Old City,bridge,0.0898,Switzerland
+What is this called?,Jungfraujoch,mountain,0.8443,Switzerland
+What is this called?,Kapellbrücke,bridge,0.4927,Switzerland
+What is this called?,Ascona,beach,0.5454,Switzerland
+What is this called?,Grindelwald,ski resort,0.5871,Switzerland
+What is this called?,Chateau de Gruyeres,castle,0.8196,Switzerland
+What is this called?,Aletsch Glacier,mountain,0.2653,Switzerland
+What is this called?,Lauterbrunnen,mountain,0.4586,Switzerland
+What is this called?,Rheinfall,bridge,0.496,Switzerland
+What is this called?,Zermatt,ski resort,0.3535,Switzerland
+What is this called?,Lion Monument,stone,0.2141,Switzerland
+What is this called?,Schilthorn,mountain,0.3225,Switzerland
+What is this called?,Lenzburg Castle,house,0.951,Switzerland
+What is this called?,Grossmünster,clock tower,0.5976,Switzerland
+What is this called?,Jet d'Eau Lake Geneva,water,0.6973,Switzerland
+What is this called?,Zytglogge,clock tower,0.7864,Switzerland
+What is this called?,Eiffel Tower,tower,0.881,International
+What is this called?,Uluru,mountain,0.445,International
+What is this called?,Louvre,building,0.2666,International
+What is this called?,Lady Liberty,statue,0.9478,International
+What is this called?,Colosseum,building,0.5134,International
+What is this called?,Niagara Falls,water,0.3045,International
+What is this called?,Disney World,clock tower,0.5738,International
+What is this called?,Forbidden City,china,0.5112,International
+What is this called?,Golden Gate Bridge,bridge,0.8256,International
+What is this called?,Times Square,city,0.2991,International
+What is this called?,Notre Dame,church,0.8834,International
+What is this called?,Sagrada Familia,building,0.5742,International
+What is this called?,Neuschwanstein Castle,castle,0.9788,International
+What is this called?,Sydney Opera House,boat,0.4733,International
+What is this called?,Great Wall,mountain,0.454,International
+What is this called?,Florence Cathedral,church,0.5558,International
+What is this called?,Mount Rushmore,statue,0.4014,International
+What is this called?,Brooklyn Bridge,bridge,0.9562,International
+What is this called?,Grand Canyon,mountains,0.5644,International
+What is this called?,Las Vegas Strip,city,0.3588,International
+What is this called?,Arosa,lake,0.852,Grisons
+What is this called?,Bergün,street,0.3728,Grisons
+What is this called?,Lai da Palpuogna,lake,0.5725,Grisons
+What is this called?,samedan,mountain,0.5487,Grisons
+What is this called?,S-chanf,bridge,0.9574,Grisons
+What is this called?,Landwasser Viaduct,bridge,0.8073,Grisons
+What is this called?,Brusio Spiral Viaduct,train,0.9865,Grisons
+What is this called?,Chur,city,0.1273,Grisons
+What is this called?,Lake Silvaplana,park,0.1639,Grisons
+What is this called?,St. Moritz,city,0.5025,Grisons
+What is this called?,Lake Cauma,snow,0.2045,Grisons
+What is this called?,White Turf,horses,0.1848,Grisons
+What is this called?,Guarda,kite,0.2295,Grisons
+What is this called?,Davos Schatzalp,train,0.9968,Grisons
+What is this called?,Ruinaulta,mountains,0.3702,Grisons
+What is this called?,Maienfeld,mountain,0.0951,Grisons
+What is this called?,Muottas Muragl,train,0.97,Grisons
+What is this called?,Oberengadin,mountains,0.2762,Grisons
+What is this called?,San Gian,clock tower,0.575,Grisons
+What is this called?,Corviglia Piz Nair,ski lift,0.6651,Grisons

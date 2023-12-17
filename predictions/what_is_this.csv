@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is this?,Matterhorn,mountain,0.9562,Switzerland
+What is this?,Bundeshaus,building,0.6159,Switzerland
+What is this?,Chateau de Chillon,castle,0.9067,Switzerland
+What is this?,Creux du Van,bridge,0.9412,Switzerland
+What is this?,Bern Old City,bridge,0.147,Switzerland
+What is this?,Jungfraujoch,mountain,0.8022,Switzerland
+What is this?,Kapellbrücke,bridge,0.6213,Switzerland
+What is this?,Ascona,beach,0.5799,Switzerland
+What is this?,Grindelwald,ski resort,0.5198,Switzerland
+What is this?,Chateau de Gruyeres,castle,0.8702,Switzerland
+What is this?,Aletsch Glacier,mountains,0.2721,Switzerland
+What is this?,Lauterbrunnen,mountains,0.4308,Switzerland
+What is this?,Rheinfall,bridge,0.5571,Switzerland
+What is this?,Zermatt,ski resort,0.2888,Switzerland
+What is this?,Lion Monument,oven,0.316,Switzerland
+What is this?,Schilthorn,mountain,0.2442,Switzerland
+What is this?,Lenzburg Castle,house,0.9016,Switzerland
+What is this?,Grossmünster,clock tower,0.526,Switzerland
+What is this?,Jet d'Eau Lake Geneva,water,0.7396,Switzerland
+What is this?,Zytglogge,clock tower,0.8153,Switzerland
+What is this?,Eiffel Tower,tower,0.79,International
+What is this?,Uluru,mountain,0.4295,International
+What is this?,Louvre,building,0.2244,International
+What is this?,Lady Liberty,statue,0.9446,International
+What is this?,Colosseum,building,0.5986,International
+What is this?,Niagara Falls,water,0.4826,International
+What is this?,Disney World,clock tower,0.5359,International
+What is this?,Forbidden City,china,0.4954,International
+What is this?,Golden Gate Bridge,bridge,0.8394,International
+What is this?,Times Square,city,0.2865,International
+What is this?,Notre Dame,church,0.7957,International
+What is this?,Sagrada Familia,building,0.6852,International
+What is this?,Neuschwanstein Castle,castle,0.983,International
+What is this?,Sydney Opera House,boat,0.4596,International
+What is this?,Great Wall,mountain,0.4346,International
+What is this?,Florence Cathedral,church,0.4278,International
+What is this?,Mount Rushmore,statue,0.4149,International
+What is this?,Brooklyn Bridge,bridge,0.9262,International
+What is this?,Grand Canyon,mountains,0.7909,International
+What is this?,Las Vegas Strip,city,0.5982,International
+What is this?,Arosa,lake,0.8775,Grisons
+What is this?,Bergün,street,0.3828,Grisons
+What is this?,Lai da Palpuogna,lake,0.5751,Grisons
+What is this?,samedan,mountain,0.3826,Grisons
+What is this?,S-chanf,bridge,0.9142,Grisons
+What is this?,Landwasser Viaduct,bridge,0.5195,Grisons
+What is this?,Brusio Spiral Viaduct,train,0.9793,Grisons
+What is this?,Chur,city,0.2884,Grisons
+What is this?,Lake Silvaplana,kites,0.4249,Grisons
+What is this?,St. Moritz,city,0.7392,Grisons
+What is this?,Lake Cauma,snow,0.1988,Grisons
+What is this?,White Turf,horses,0.6838,Grisons
+What is this?,Guarda,kite,0.2212,Grisons
+What is this?,Davos Schatzalp,train,0.9937,Grisons
+What is this?,Ruinaulta,mountains,0.698,Grisons
+What is this?,Maienfeld,trees,0.096,Grisons
+What is this?,Muottas Muragl,train,0.9513,Grisons
+What is this?,Oberengadin,mountains,0.4278,Grisons
+What is this?,San Gian,clock tower,0.6281,Grisons
+What is this?,Corviglia Piz Nair,ski lift,0.6674,Grisons

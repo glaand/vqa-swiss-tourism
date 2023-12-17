@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Is this in nature?,Matterhorn,yes,0.994,Switzerland
+Is this in nature?,Bundeshaus,no,1.0,Switzerland
+Is this in nature?,Chateau de Chillon,yes,0.9962,Switzerland
+Is this in nature?,Creux du Van,yes,0.9995,Switzerland
+Is this in nature?,Bern Old City,yes,0.7535,Switzerland
+Is this in nature?,Jungfraujoch,no,0.9251,Switzerland
+Is this in nature?,Kapellbrücke,no,0.8911,Switzerland
+Is this in nature?,Ascona,yes,0.6449,Switzerland
+Is this in nature?,Grindelwald,no,0.9958,Switzerland
+Is this in nature?,Chateau de Gruyeres,yes,0.9993,Switzerland
+Is this in nature?,Aletsch Glacier,yes,0.9999,Switzerland
+Is this in nature?,Lauterbrunnen,yes,1.0,Switzerland
+Is this in nature?,Rheinfall,yes,1.0,Switzerland
+Is this in nature?,Zermatt,no,0.9631,Switzerland
+Is this in nature?,Lion Monument,yes,0.9969,Switzerland
+Is this in nature?,Schilthorn,no,0.6744,Switzerland
+Is this in nature?,Lenzburg Castle,yes,0.9892,Switzerland
+Is this in nature?,Grossmünster,no,1.0,Switzerland
+Is this in nature?,Jet d'Eau Lake Geneva,no,0.9999,Switzerland
+Is this in nature?,Zytglogge,no,0.9997,Switzerland
+Is this in nature?,Eiffel Tower,no,0.9941,International
+Is this in nature?,Uluru,yes,0.9368,International
+Is this in nature?,Louvre,no,1.0,International
+Is this in nature?,Lady Liberty,no,1.0,International
+Is this in nature?,Colosseum,no,0.9967,International
+Is this in nature?,Niagara Falls,yes,1.0,International
+Is this in nature?,Disney World,no,1.0,International
+Is this in nature?,Forbidden City,no,0.8892,International
+Is this in nature?,Golden Gate Bridge,yes,0.9739,International
+Is this in nature?,Times Square,no,0.9999,International
+Is this in nature?,Notre Dame,no,0.9986,International
+Is this in nature?,Sagrada Familia,no,1.0,International
+Is this in nature?,Neuschwanstein Castle,yes,0.9783,International
+Is this in nature?,Sydney Opera House,no,0.9999,International
+Is this in nature?,Great Wall,yes,1.0,International
+Is this in nature?,Florence Cathedral,no,0.9953,International
+Is this in nature?,Mount Rushmore,yes,0.5749,International
+Is this in nature?,Brooklyn Bridge,no,0.9999,International
+Is this in nature?,Grand Canyon,yes,0.9907,International
+Is this in nature?,Las Vegas Strip,no,1.0,International
+Is this in nature?,Arosa,no,0.6611,Grisons
+Is this in nature?,Bergün,no,0.8267,Grisons
+Is this in nature?,Lai da Palpuogna,yes,0.9995,Grisons
+Is this in nature?,samedan,yes,0.9422,Grisons
+Is this in nature?,S-chanf,yes,0.9947,Grisons
+Is this in nature?,Landwasser Viaduct,yes,0.9996,Grisons
+Is this in nature?,Brusio Spiral Viaduct,yes,0.9953,Grisons
+Is this in nature?,Chur,yes,0.6931,Grisons
+Is this in nature?,Lake Silvaplana,yes,0.9944,Grisons
+Is this in nature?,St. Moritz,yes,0.9895,Grisons
+Is this in nature?,Lake Cauma,yes,0.9999,Grisons
+Is this in nature?,White Turf,no,0.9994,Grisons
+Is this in nature?,Guarda,no,0.9992,Grisons
+Is this in nature?,Davos Schatzalp,yes,0.9996,Grisons
+Is this in nature?,Ruinaulta,yes,1.0,Grisons
+Is this in nature?,Maienfeld,yes,0.9718,Grisons
+Is this in nature?,Muottas Muragl,yes,1.0,Grisons
+Is this in nature?,Oberengadin,yes,1.0,Grisons
+Is this in nature?,San Gian,no,0.8103,Grisons
+Is this in nature?,Corviglia Piz Nair,no,1.0,Grisons

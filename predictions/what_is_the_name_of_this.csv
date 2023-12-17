@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is the name of this,Matterhorn,mountain,0.8686,Switzerland
+What is the name of this,Bundeshaus,white house,0.2747,Switzerland
+What is the name of this,Chateau de Chillon,castle,0.807,Switzerland
+What is the name of this,Creux du Van,bridge,0.4037,Switzerland
+What is the name of this,Bern Old City,don't know,0.0734,Switzerland
+What is the name of this,Jungfraujoch,mountain,0.6224,Switzerland
+What is the name of this,Kapellbrücke,big ben,0.1314,Switzerland
+What is the name of this,Ascona,beach,0.1231,Switzerland
+What is the name of this,Grindelwald,ski resort,0.1982,Switzerland
+What is the name of this,Chateau de Gruyeres,castle,0.7565,Switzerland
+What is the name of this,Aletsch Glacier,mountains,0.417,Switzerland
+What is the name of this,Lauterbrunnen,mountains,0.4188,Switzerland
+What is the name of this,Rheinfall,river,0.2398,Switzerland
+What is the name of this,Zermatt,mountain,0.3281,Switzerland
+What is the name of this,Lion Monument,stone,0.1578,Switzerland
+What is the name of this,Schilthorn,mountain,0.225,Switzerland
+What is the name of this,Lenzburg Castle,house,0.6433,Switzerland
+What is the name of this,Grossmünster,big ben,0.873,Switzerland
+What is the name of this,Jet d'Eau Lake Geneva,water,0.4939,Switzerland
+What is the name of this,Zytglogge,clock tower,0.7757,Switzerland
+What is the name of this,Eiffel Tower,tower,0.4578,International
+What is the name of this,Uluru,mountain,0.1915,International
+What is the name of this,Louvre,not sure,0.0864,International
+What is the name of this,Lady Liberty,statue,0.5848,International
+What is the name of this,Colosseum,not sure,0.0865,International
+What is the name of this,Niagara Falls,water,0.1749,International
+What is the name of this,Disney World,big ben,0.597,International
+What is the name of this,Forbidden City,china,0.5672,International
+What is the name of this,Golden Gate Bridge,bridge,0.3469,International
+What is the name of this,Times Square,city,0.2383,International
+What is the name of this,Notre Dame,church,0.7556,International
+What is the name of this,Sagrada Familia,church,0.3072,International
+What is the name of this,Neuschwanstein Castle,castle,0.9687,International
+What is the name of this,Sydney Opera House,boat,0.1192,International
+What is the name of this,Great Wall,mountain,0.2606,International
+What is the name of this,Florence Cathedral,church,0.4555,International
+What is the name of this,Mount Rushmore,mountain,0.0903,International
+What is the name of this,Brooklyn Bridge,bridge,0.4475,International
+What is the name of this,Grand Canyon,mountains,0.1799,International
+What is the name of this,Las Vegas Strip,city,0.1195,International
+What is the name of this,Arosa,lake,0.7182,Grisons
+What is the name of this,Bergün,italy,0.0786,Grisons
+What is the name of this,Lai da Palpuogna,lake,0.1564,Grisons
+What is the name of this,samedan,mountain,0.3052,Grisons
+What is the name of this,S-chanf,bridge,0.2567,Grisons
+What is the name of this,Landwasser Viaduct,train,0.7113,Grisons
+What is the name of this,Brusio Spiral Viaduct,train,0.975,Grisons
+What is the name of this,Chur,castle,0.0857,Grisons
+What is the name of this,Lake Silvaplana,lake,0.1624,Grisons
+What is the name of this,St. Moritz,big ben,0.159,Grisons
+What is the name of this,Lake Cauma,unknown,0.0881,Grisons
+What is the name of this,White Turf,horse,0.362,Grisons
+What is the name of this,Guarda,don't know,0.0686,Grisons
+What is the name of this,Davos Schatzalp,train,0.6335,Grisons
+What is the name of this,Ruinaulta,mountains,0.7506,Grisons
+What is the name of this,Maienfeld,fall,0.0788,Grisons
+What is the name of this,Muottas Muragl,train,0.575,Grisons
+What is the name of this,Oberengadin,mountains,0.227,Grisons
+What is the name of this,San Gian,clock tower,0.4799,Grisons
+What is the name of this,Corviglia Piz Nair,ski resort,0.0616,Grisons

@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What is special here?,Matterhorn,mountain,0.3341,Switzerland
+What is special here?,Bundeshaus,building,0.3875,Switzerland
+What is special here?,Chateau de Chillon,castle,0.3305,Switzerland
+What is special here?,Creux du Van,bridge,0.5914,Switzerland
+What is special here?,Bern Old City,cars,0.0854,Switzerland
+What is special here?,Jungfraujoch,ski lift,0.1377,Switzerland
+What is special here?,Kapellbrücke,water,0.2951,Switzerland
+What is special here?,Ascona,boats,0.3007,Switzerland
+What is special here?,Grindelwald,snow,0.1779,Switzerland
+What is special here?,Chateau de Gruyeres,castle,0.2008,Switzerland
+What is special here?,Aletsch Glacier,snow,0.5012,Switzerland
+What is special here?,Lauterbrunnen,flowers,0.8558,Switzerland
+What is special here?,Rheinfall,bridge,0.2381,Switzerland
+What is special here?,Zermatt,snow,0.3483,Switzerland
+What is special here?,Lion Monument,stone,0.1204,Switzerland
+What is special here?,Schilthorn,hotel,0.1738,Switzerland
+What is special here?,Lenzburg Castle,house,0.6278,Switzerland
+What is special here?,Grossmünster,flag,0.1694,Switzerland
+What is special here?,Jet d'Eau Lake Geneva,water,0.9424,Switzerland
+What is special here?,Zytglogge,clock,0.5282,Switzerland
+What is special here?,Eiffel Tower,tower,0.4929,International
+What is special here?,Uluru,mountain,0.0878,International
+What is special here?,Louvre,wedding,0.1725,International
+What is special here?,Lady Liberty,statue,0.5908,International
+What is special here?,Colosseum,building,0.2586,International
+What is special here?,Niagara Falls,water,0.85,International
+What is special here?,Disney World,big ben,0.2324,International
+What is special here?,Forbidden City,china,0.2139,International
+What is special here?,Golden Gate Bridge,bridge,0.1999,International
+What is special here?,Times Square,parade,0.2337,International
+What is special here?,Notre Dame,church,0.9455,International
+What is special here?,Sagrada Familia,building,0.5069,International
+What is special here?,Neuschwanstein Castle,castle,0.8297,International
+What is special here?,Sydney Opera House,boat,0.0918,International
+What is special here?,Great Wall,nothing,0.2009,International
+What is special here?,Florence Cathedral,church,0.4777,International
+What is special here?,Mount Rushmore,statue,0.1083,International
+What is special here?,Brooklyn Bridge,bridge,0.3087,International
+What is special here?,Grand Canyon,nothing,0.2552,International
+What is special here?,Las Vegas Strip,lights,0.1319,International
+What is special here?,Arosa,water,0.3366,Grisons
+What is special here?,Bergün,flowers,0.7436,Grisons
+What is special here?,Lai da Palpuogna,water,0.3418,Grisons
+What is special here?,samedan,mountains,0.1113,Grisons
+What is special here?,S-chanf,water,0.1602,Grisons
+What is special here?,Landwasser Viaduct,train,0.7879,Grisons
+What is special here?,Brusio Spiral Viaduct,train,0.94,Grisons
+What is special here?,Chur,church,0.1056,Grisons
+What is special here?,Lake Silvaplana,kites,0.6636,Grisons
+What is special here?,St. Moritz,building,0.0873,Grisons
+What is special here?,Lake Cauma,food,0.1348,Grisons
+What is special here?,White Turf,racing,0.1754,Grisons
+What is special here?,Guarda,parade,0.1625,Grisons
+What is special here?,Davos Schatzalp,train,0.8841,Grisons
+What is special here?,Ruinaulta,mountains,0.2829,Grisons
+What is special here?,Maienfeld,trees,0.2067,Grisons
+What is special here?,Muottas Muragl,train,0.5514,Grisons
+What is special here?,Oberengadin,nothing,0.351,Grisons
+What is special here?,San Gian,clock,0.4941,Grisons
+What is special here?,Corviglia Piz Nair,ski lift,0.8403,Grisons

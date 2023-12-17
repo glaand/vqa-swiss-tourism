@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Is this in a city?,Matterhorn,no,1.0,Switzerland
+Is this in a city?,Bundeshaus,yes,0.9539,Switzerland
+Is this in a city?,Chateau de Chillon,no,0.9997,Switzerland
+Is this in a city?,Creux du Van,no,1.0,Switzerland
+Is this in a city?,Bern Old City,no,0.9966,Switzerland
+Is this in a city?,Jungfraujoch,no,1.0,Switzerland
+Is this in a city?,Kapellbrücke,yes,0.9305,Switzerland
+Is this in a city?,Ascona,no,0.9904,Switzerland
+Is this in a city?,Grindelwald,no,0.9998,Switzerland
+Is this in a city?,Chateau de Gruyeres,no,0.9995,Switzerland
+Is this in a city?,Aletsch Glacier,no,1.0,Switzerland
+Is this in a city?,Lauterbrunnen,no,1.0,Switzerland
+Is this in a city?,Rheinfall,no,0.9994,Switzerland
+Is this in a city?,Zermatt,yes,0.5386,Switzerland
+Is this in a city?,Lion Monument,no,0.9939,Switzerland
+Is this in a city?,Schilthorn,no,1.0,Switzerland
+Is this in a city?,Lenzburg Castle,no,1.0,Switzerland
+Is this in a city?,Grossmünster,yes,0.9996,Switzerland
+Is this in a city?,Jet d'Eau Lake Geneva,no,1.0,Switzerland
+Is this in a city?,Zytglogge,yes,1.0,Switzerland
+Is this in a city?,Eiffel Tower,yes,0.9988,International
+Is this in a city?,Uluru,no,1.0,International
+Is this in a city?,Louvre,yes,1.0,International
+Is this in a city?,Lady Liberty,no,0.8499,International
+Is this in a city?,Colosseum,yes,0.9117,International
+Is this in a city?,Niagara Falls,no,1.0,International
+Is this in a city?,Disney World,yes,0.9939,International
+Is this in a city?,Forbidden City,no,0.617,International
+Is this in a city?,Golden Gate Bridge,no,0.991,International
+Is this in a city?,Times Square,yes,1.0,International
+Is this in a city?,Notre Dame,yes,0.9978,International
+Is this in a city?,Sagrada Familia,yes,0.9992,International
+Is this in a city?,Neuschwanstein Castle,no,0.9997,International
+Is this in a city?,Sydney Opera House,no,0.9585,International
+Is this in a city?,Great Wall,no,1.0,International
+Is this in a city?,Florence Cathedral,yes,0.9985,International
+Is this in a city?,Mount Rushmore,no,1.0,International
+Is this in a city?,Brooklyn Bridge,yes,0.9994,International
+Is this in a city?,Grand Canyon,no,1.0,International
+Is this in a city?,Las Vegas Strip,yes,1.0,International
+Is this in a city?,Arosa,no,0.6899,Grisons
+Is this in a city?,Bergün,yes,0.9999,Grisons
+Is this in a city?,Lai da Palpuogna,no,1.0,Grisons
+Is this in a city?,samedan,no,0.8984,Grisons
+Is this in a city?,S-chanf,no,0.9901,Grisons
+Is this in a city?,Landwasser Viaduct,no,1.0,Grisons
+Is this in a city?,Brusio Spiral Viaduct,no,0.9998,Grisons
+Is this in a city?,Chur,yes,0.9773,Grisons
+Is this in a city?,Lake Silvaplana,no,1.0,Grisons
+Is this in a city?,St. Moritz,yes,0.9957,Grisons
+Is this in a city?,Lake Cauma,no,1.0,Grisons
+Is this in a city?,White Turf,no,1.0,Grisons
+Is this in a city?,Guarda,yes,0.9726,Grisons
+Is this in a city?,Davos Schatzalp,no,0.9999,Grisons
+Is this in a city?,Ruinaulta,no,1.0,Grisons
+Is this in a city?,Maienfeld,no,1.0,Grisons
+Is this in a city?,Muottas Muragl,no,1.0,Grisons
+Is this in a city?,Oberengadin,no,1.0,Grisons
+Is this in a city?,San Gian,no,1.0,Grisons
+Is this in a city?,Corviglia Piz Nair,no,0.7207,Grisons

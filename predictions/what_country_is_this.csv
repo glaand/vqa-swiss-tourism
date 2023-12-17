@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+What country is this?,Matterhorn,switzerland,0.3666,Switzerland
+What country is this?,Bundeshaus,usa,0.5269,Switzerland
+What country is this?,Chateau de Chillon,england,0.2257,Switzerland
+What country is this?,Creux du Van,switzerland,0.1379,Switzerland
+What country is this?,Bern Old City,usa,0.1763,Switzerland
+What country is this?,Jungfraujoch,switzerland,0.3565,Switzerland
+What country is this?,Kapellbrücke,england,0.2775,Switzerland
+What country is this?,Ascona,italy,0.3361,Switzerland
+What country is this?,Grindelwald,switzerland,0.479,Switzerland
+What country is this?,Chateau de Gruyeres,england,0.1032,Switzerland
+What country is this?,Aletsch Glacier,switzerland,0.4725,Switzerland
+What country is this?,Lauterbrunnen,switzerland,0.5392,Switzerland
+What country is this?,Rheinfall,england,0.3241,Switzerland
+What country is this?,Zermatt,switzerland,0.5471,Switzerland
+What country is this?,Lion Monument,china,0.261,Switzerland
+What country is this?,Schilthorn,switzerland,0.3207,Switzerland
+What country is this?,Lenzburg Castle,england,0.2613,Switzerland
+What country is this?,Grossmünster,england,0.8382,Switzerland
+What country is this?,Jet d'Eau Lake Geneva,usa,0.6695,Switzerland
+What country is this?,Zytglogge,italy,0.3317,Switzerland
+What country is this?,Eiffel Tower,usa,0.1273,International
+What country is this?,Uluru,usa,0.4424,International
+What country is this?,Louvre,england,0.2853,International
+What country is this?,Lady Liberty,usa,0.1988,International
+What country is this?,Colosseum,england,0.4103,International
+What country is this?,Niagara Falls,usa,0.3753,International
+What country is this?,Disney World,england,0.7553,International
+What country is this?,Forbidden City,china,0.8916,International
+What country is this?,Golden Gate Bridge,london,0.2111,International
+What country is this?,Times Square,usa,0.5026,International
+What country is this?,Notre Dame,england,0.8473,International
+What country is this?,Sagrada Familia,usa,0.3812,International
+What country is this?,Neuschwanstein Castle,england,0.6614,International
+What country is this?,Sydney Opera House,usa,0.544,International
+What country is this?,Great Wall,switzerland,0.244,International
+What country is this?,Florence Cathedral,italy,0.3289,International
+What country is this?,Mount Rushmore,switzerland,0.2923,International
+What country is this?,Brooklyn Bridge,usa,0.2989,International
+What country is this?,Grand Canyon,usa,0.5604,International
+What country is this?,Las Vegas Strip,china,0.3567,International
+What country is this?,Arosa,usa,0.261,Grisons
+What country is this?,Bergün,italy,0.4444,Grisons
+What country is this?,Lai da Palpuogna,usa,0.3624,Grisons
+What country is this?,samedan,usa,0.4985,Grisons
+What country is this?,S-chanf,england,0.1532,Grisons
+What country is this?,Landwasser Viaduct,switzerland,0.1982,Grisons
+What country is this?,Brusio Spiral Viaduct,england,0.5047,Grisons
+What country is this?,Chur,england,0.2828,Grisons
+What country is this?,Lake Silvaplana,usa,0.5412,Grisons
+What country is this?,St. Moritz,switzerland,0.2361,Grisons
+What country is this?,Lake Cauma,usa,0.3382,Grisons
+What country is this?,White Turf,usa,0.5658,Grisons
+What country is this?,Guarda,usa,0.1837,Grisons
+What country is this?,Davos Schatzalp,usa,0.12,Grisons
+What country is this?,Ruinaulta,switzerland,0.5086,Grisons
+What country is this?,Maienfeld,usa,0.5163,Grisons
+What country is this?,Muottas Muragl,switzerland,0.4916,Grisons
+What country is this?,Oberengadin,switzerland,0.4777,Grisons
+What country is this?,San Gian,england,0.1758,Grisons
+What country is this?,Corviglia Piz Nair,usa,0.6241,Grisons

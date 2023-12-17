@@ -1,0 +1,61 @@
+Question,Location,Answer,Confidence,Region
+Where is this?,Matterhorn,mountains,0.8856,Switzerland
+Where is this?,Bundeshaus,outside,0.1388,Switzerland
+Where is this?,Chateau de Chillon,castle,0.0753,Switzerland
+Where is this?,Creux du Van,mountains,0.3281,Switzerland
+Where is this?,Bern Old City,city,0.1474,Switzerland
+Where is this?,Jungfraujoch,mountains,0.671,Switzerland
+Where is this?,Kapellbrücke,london,0.1505,Switzerland
+Where is this?,Ascona,beach,0.67,Switzerland
+Where is this?,Grindelwald,mountains,0.6745,Switzerland
+Where is this?,Chateau de Gruyeres,mountains,0.3843,Switzerland
+Where is this?,Aletsch Glacier,mountains,0.9397,Switzerland
+Where is this?,Lauterbrunnen,mountains,0.9205,Switzerland
+Where is this?,Rheinfall,river,0.4806,Switzerland
+Where is this?,Zermatt,mountains,0.6491,Switzerland
+Where is this?,Lion Monument,asia,0.1186,Switzerland
+Where is this?,Schilthorn,mountains,0.5137,Switzerland
+Where is this?,Lenzburg Castle,countryside,0.1786,Switzerland
+Where is this?,Grossmünster,london,0.5245,Switzerland
+Where is this?,Jet d'Eau Lake Geneva,ocean,0.5616,Switzerland
+Where is this?,Zytglogge,london,0.1972,Switzerland
+Where is this?,Eiffel Tower,park,0.1576,International
+Where is this?,Uluru,desert,0.3692,International
+Where is this?,Louvre,london,0.2267,International
+Where is this?,Lady Liberty,outside,0.0679,International
+Where is this?,Colosseum,outside,0.2389,International
+Where is this?,Niagara Falls,river,0.2919,International
+Where is this?,Disney World,london,0.7594,International
+Where is this?,Forbidden City,china,0.8972,International
+Where is this?,Golden Gate Bridge,bridge,0.3694,International
+Where is this?,Times Square,new york,0.3066,International
+Where is this?,Notre Dame,london,0.5432,International
+Where is this?,Sagrada Familia,london,0.3056,International
+Where is this?,Neuschwanstein Castle,castle,0.6049,International
+Where is this?,Sydney Opera House,ocean,0.1122,International
+Where is this?,Great Wall,mountains,0.6615,International
+Where is this?,Florence Cathedral,city,0.1969,International
+Where is this?,Mount Rushmore,mountains,0.8654,International
+Where is this?,Brooklyn Bridge,san francisco,0.6144,International
+Where is this?,Grand Canyon,mountains,0.8058,International
+Where is this?,Las Vegas Strip,city,0.4707,International
+Where is this?,Arosa,lake,0.852,Grisons
+Where is this?,Bergün,city,0.2578,Grisons
+Where is this?,Lai da Palpuogna,mountains,0.6933,Grisons
+Where is this?,samedan,mountains,0.6547,Grisons
+Where is this?,S-chanf,river,0.3244,Grisons
+Where is this?,Landwasser Viaduct,mountains,0.6414,Grisons
+Where is this?,Brusio Spiral Viaduct,bridge,0.6084,Grisons
+Where is this?,Chur,europe,0.1497,Grisons
+Where is this?,Lake Silvaplana,lake,0.411,Grisons
+Where is this?,St. Moritz,city,0.3171,Grisons
+Where is this?,Lake Cauma,outside,0.5047,Grisons
+Where is this?,White Turf,mountains,0.4613,Grisons
+Where is this?,Guarda,outside,0.5812,Grisons
+Where is this?,Davos Schatzalp,mountains,0.6622,Grisons
+Where is this?,Ruinaulta,mountains,0.9798,Grisons
+Where is this?,Maienfeld,mountains,0.3752,Grisons
+Where is this?,Muottas Muragl,mountains,0.8159,Grisons
+Where is this?,Oberengadin,mountains,0.9586,Grisons
+Where is this?,San Gian,mountain,0.3914,Grisons
+Where is this?,Corviglia Piz Nair,ski resort,0.3118,Grisons
